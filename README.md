@@ -1,6 +1,10 @@
 # Image-Recognition-cifar10
 
-This is a Keras implementation to recognise images from cifar10 dataset using Convolutional Neural Networks. The model in this notebook achieves 93% accuracy on training set and 83% accuracy on validation set using Dropout and Batch Normalization techniques. There is further scope of improving the model using regularisation.
+This is a Keras implementation to recognise images from cifar10 dataset using Convolutional Neural Networks. The model in this notebook achieves 93% accuracy on training set and 83% accuracy on validation set using Dropout and Batch Normalization techniques.
+
+## Todo:
+- [ ] Use data augmentation
+- [ ] Model is overfitting, therefore, apply regularisation 
 
 ## References:
 1. [Dropout: A Simple Way to Prevent Neural Networks from
